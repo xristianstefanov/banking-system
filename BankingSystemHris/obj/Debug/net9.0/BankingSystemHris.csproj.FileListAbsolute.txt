@@ -1,0 +1,14 @@
+C:\Users\xrist\source\repos\BankingSystemHris\BankingSystemHris\bin\Debug\net9.0\BankingSystemHris.exe
+C:\Users\xrist\source\repos\BankingSystemHris\BankingSystemHris\bin\Debug\net9.0\BankingSystemHris.deps.json
+C:\Users\xrist\source\repos\BankingSystemHris\BankingSystemHris\bin\Debug\net9.0\BankingSystemHris.runtimeconfig.json
+C:\Users\xrist\source\repos\BankingSystemHris\BankingSystemHris\bin\Debug\net9.0\BankingSystemHris.dll
+C:\Users\xrist\source\repos\BankingSystemHris\BankingSystemHris\bin\Debug\net9.0\BankingSystemHris.pdb
+C:\Users\xrist\source\repos\BankingSystemHris\BankingSystemHris\obj\Debug\net9.0\BankingSystemHris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xrist\source\repos\BankingSystemHris\BankingSystemHris\obj\Debug\net9.0\BankingSystemHris.AssemblyInfoInputs.cache
+C:\Users\xrist\source\repos\BankingSystemHris\BankingSystemHris\obj\Debug\net9.0\BankingSystemHris.AssemblyInfo.cs
+C:\Users\xrist\source\repos\BankingSystemHris\BankingSystemHris\obj\Debug\net9.0\BankingSystemHris.csproj.CoreCompileInputs.cache
+C:\Users\xrist\source\repos\BankingSystemHris\BankingSystemHris\obj\Debug\net9.0\BankingSystemHris.dll
+C:\Users\xrist\source\repos\BankingSystemHris\BankingSystemHris\obj\Debug\net9.0\refint\BankingSystemHris.dll
+C:\Users\xrist\source\repos\BankingSystemHris\BankingSystemHris\obj\Debug\net9.0\BankingSystemHris.pdb
+C:\Users\xrist\source\repos\BankingSystemHris\BankingSystemHris\obj\Debug\net9.0\BankingSystemHris.genruntimeconfig.cache
+C:\Users\xrist\source\repos\BankingSystemHris\BankingSystemHris\obj\Debug\net9.0\ref\BankingSystemHris.dll
